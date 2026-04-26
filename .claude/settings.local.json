@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/ed/SourceCode/nightknight.co/assets /Users/ed/SourceCode/nightknight.co/images /Users/ed/SourceCode/nightknight.co/privacy)",
+      "Bash(cp /Users/ed/SourceCode/nightknight/_site/images/logo.png /Users/ed/SourceCode/nightknight/_site/images/Night_Knight_wordmark_small.png /Users/ed/SourceCode/nightknight/_site/images/app-store-badge.svg /Users/ed/SourceCode/nightknight.co/images/)",
+      "Bash(cp /Users/ed/SourceCode/nightknight/_site/favicon.ico /Users/ed/SourceCode/nightknight.co/)",
+      "Bash(cp /Users/ed/SourceCode/nightknight/_site/CNAME /Users/ed/SourceCode/nightknight.co/)"
+    ]
+  }
+}
